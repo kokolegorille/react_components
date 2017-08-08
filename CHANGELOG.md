@@ -19,3 +19,8 @@ $ npm run eject
 
 $ git add .
 $ git commit -m "Eject react app"
+
+## Add docs dependencies
+
+$ npm install -D react-docgen chokidar npm-run-all
+$ npm install -S highlight.js
