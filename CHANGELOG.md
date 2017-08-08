@@ -13,4 +13,9 @@ $ npm install create-react-app -g
 $ git add .
 $ git commit -m "Create react app"
 
+## Eject application
 
+$ npm run eject
+
+$ git add .
+$ git commit -m "Eject react app"
